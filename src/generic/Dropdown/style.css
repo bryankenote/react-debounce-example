@@ -1,0 +1,11 @@
+.hidden {
+	visibility: hidden;
+}
+
+.dropdown {
+	display: flex;
+	flex-direction: column;
+	background-color: #333;
+	border-radius: 2px;
+	padding: 5px;
+}

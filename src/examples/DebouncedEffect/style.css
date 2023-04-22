@@ -1,0 +1,9 @@
+.DebouncedEffect {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.DebouncedEffect > input {
+	margin-bottom: 10px;
+}

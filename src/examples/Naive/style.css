@@ -1,0 +1,9 @@
+.Naive {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.Naive > input {
+	margin-bottom: 10px;
+}
